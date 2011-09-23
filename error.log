@@ -1,0 +1,4 @@
+[Mon Jul 11 15:58:43 2011] [error] [client 192.168.3.3] script '/var/www/site1/public/dummy.php' not found or unable to stat
+[Mon Jul 11 15:59:43 2011] [error] [client 192.168.3.3] script '/var/www/site1/public/dummy.php' not found or unable to stat
+[Mon Jul 11 16:02:48 2011] [error] [client 192.168.3.3] script '/var/www/site1/public/dummy.php' not found or unable to stat
+[Mon Jul 11 16:03:32 2011] [error] [client 192.168.3.3] script '/var/www/site1/public/dummy.php' not found or unable to stat
